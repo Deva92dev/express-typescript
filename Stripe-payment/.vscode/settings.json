@@ -1,0 +1,4 @@
+{
+  "prisma-smart-formatter.prisma.defaultFormatter": "Prisma.prisma",
+  "git.ignoreLimitWarning": true
+}
